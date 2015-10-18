@@ -1,3 +1,6 @@
+### This project is deprecated. 
+Please consider to use Structor instead. You can find a new UI builder for React here: [https://github.com/ipselon/structor](https://github.com/ipselon/structor)
+
 Description
 -----------
 
