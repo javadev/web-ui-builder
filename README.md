@@ -1,6 +1,9 @@
 ### This project is deprecated. 
 Please consider to use Structor instead. You can find a new UI builder for React here: [https://github.com/ipselon/structor](https://github.com/ipselon/structor)
 
+Structor is replacement of React UI Builder. It's more capable: hot-reloading, react-router, redux , react 0.14, and many enhancements in usability.
+
+
 Description
 -----------
 
