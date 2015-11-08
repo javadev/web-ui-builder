@@ -1,13 +1,6 @@
-### This project is deprecated. 
-Please consider to use Structor instead. You can find a new UI builder for React here: [https://github.com/ipselon/structor](https://github.com/ipselon/structor)
-
-Structor is replacement of React UI Builder. It's more capable: hot-reloading, react-router, redux , react 0.14, and many enhancements in usability.
-
 
 Description
 -----------
-
-[![Join the chat at https://gitter.im/ipselon/react-ui-builder](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ipselon/react-ui-builder?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 The visual tool for prototyping UI for ReactJS components and Web applications. 
 In the builder you can easily combine available components with each other, and see how they look and feel right on a Web page.
